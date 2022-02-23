@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+}
+
+.index-wishListContainer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 90px 0 0 -75px;
+    bottom: 100px;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}

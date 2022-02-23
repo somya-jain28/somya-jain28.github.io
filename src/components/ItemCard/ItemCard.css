@@ -1,0 +1,148 @@
+.itemcard-itemCard {
+    background-color: #fff;
+    -webkit-transition: all 2s ease;
+    transition: all 2s ease;
+    padding: 0 0 14px;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 210px;
+    flex: 1 0 210px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 40px 0 0 40px;
+    outline: 1px solid #e9e9eb;
+    position: relative;
+    height: 425px;
+    max-width: 220px;
+}
+
+.itemcard-itemImageDiv {
+    position: relative;
+}
+
+.itemcard-itemActions {
+    position: absolute;
+    height: 140px;
+    bottom: 0;
+    max-width: 100%;
+    width: 100%;
+    background: #fff;
+}
+
+.itemdetails-itemDetails {
+    height: 94px;
+    font-size: 14px;
+    text-align: left;
+    color: #696b79;
+    padding: 10px 10px 0;
+    border: none!important;
+    border-bottom: 1px solid #e9e9eb!important;
+}
+
+.itemdetails-itemDetailsDescription, .itemdetails-itemPricing {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.itemdetails-itemDetailsDescription {
+    margin: 4px 0 8px;
+    color: #535766;
+    font-size: 14px;
+    text-decoration: none;
+}
+.itemdetails-itemDetailsLabel {
+    font-size: 16px;
+    color: #282c3f;
+    text-align: left;
+    margin: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+}
+
+.itemdetails-itemPricing {
+    font-size: 16px;
+    text-align: center;
+}
+
+.itemdetails-itemDetailsDescription, .itemdetails-itemPricing {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.itemdetails-boldFont {
+    font-weight: 500;
+    padding: 0 3px 0 0;
+    font-size: 16px;
+    color: #282c3f;
+}
+
+.itemdetails-strike {
+    text-decoration: line-through;
+    opacity: .7;
+    font-size: 12px;
+    padding: 0 3px;
+    color: #282c3f;
+}
+
+.itemdetails-discountPercent {
+    color: #ff905a;
+    padding: 0 3px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.itemcard-flex {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.itemcard-moveToBag {
+    color: #ff3e6c;
+}
+
+.itemcard-boldFont {
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.itemcard-removeIcon {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border-radius: 20px;
+    height: 24px;
+    width: 24px;
+    background-color: hsla(0,0%,100%,.6);
+    border: 1.2px solid #d4d5d9;
+    cursor: pointer;
+    text-align: center;
+}
+
+.itemcard-itemImageDiv a {
+    cursor: pointer;
+}
+
+.itemcard-itemImage {
+    width: 100%;
+    cursor: pointer;
+    min-height: 294px;
+    -webkit-transition: all 2s ease;
+    transition: all 2s ease;
+    opacity: 1;
+}
+
+.itemcard-actionDiv {
+    text-align: center;
+    font-size: 14px;
+    padding-top: 14px;
+}

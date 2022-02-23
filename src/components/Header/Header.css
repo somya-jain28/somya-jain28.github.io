@@ -1,0 +1,128 @@
+.desktop-container {
+    color: #fff;
+    top: 0;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    -webkit-box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+    background-color: #fff;
+}
+
+.desktop-preHeaderContent {
+    display: none;
+    text-align: right;
+    max-width: 980px;
+    margin: auto;
+    font-size: 12px;
+}
+
+.desktop-showBanner {
+    height: auto;
+}
+
+.desktop-bound {
+    margin: auto;
+    min-width: 980px;
+    line-height: 80px;
+}
+
+.desktop-logoContainer {
+    float: left;
+    height: inherit;
+    margin-left: 4%;
+}
+
+
+.desktop-navbar {
+    display: block;
+    float: left;
+    line-height: 80px;
+    height: 80px;
+    margin: 0 0 0 3.5%;
+}
+
+.desktop-actions {
+    float: right;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 0;
+    height: 40px;
+    margin: 20px 30px 0 10px;
+}
+
+.desktop-query {
+    width: 400px;
+    float: right;
+    line-height: 0;
+    margin: 20px 20px 20px 40px;
+    position: relative;
+}
+
+.desktop-logo {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.sprites-headerLogo {
+    width: 53px;
+    height: 36px;
+    background-position: -462px 0;
+}
+
+.myntraweb-sprite {
+    background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+    background-size: 1404px 105px;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #282c3f;
+}
+
+.desktop-navLinks {
+    display: inline-block;
+    float: left;
+}
+
+.desktop-navContent {
+    float: left;
+    border: hidden;
+    text-align: center;
+}
+
+
+.desktop-navLink {
+    display: inline;
+}
+
+.desktop-backdropStyle, .desktop-backdropStyle2 {
+    position: fixed;
+    top: 80px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.3);
+    z-index: 0;
+    pointer-events: none;
+}
+
+.desktop-main {
+    padding: 0 17px 28px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: .3px;
+    color: #282c3f;
+    border-bottom: none;
+    -webkit-transition: left .2s ease-out,width .2s ease-out;
+    transition: left .2s ease-out,width .2s ease-out;
+    font-weight: 500;
+    text-transform: uppercase;
+}
