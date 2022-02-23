@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/somya-jain28.github.io./static/css/main.b3b99487.chunk.css",
+    "main.js": "/somya-jain28.github.io./static/js/main.a4505091.chunk.js",
+    "main.js.map": "/somya-jain28.github.io./static/js/main.a4505091.chunk.js.map",
+    "runtime-main.js": "/somya-jain28.github.io./static/js/runtime-main.6d7deb1f.js",
+    "runtime-main.js.map": "/somya-jain28.github.io./static/js/runtime-main.6d7deb1f.js.map",
+    "static/js/2.54e994be.chunk.js": "/somya-jain28.github.io./static/js/2.54e994be.chunk.js",
+    "static/js/2.54e994be.chunk.js.map": "/somya-jain28.github.io./static/js/2.54e994be.chunk.js.map",
+    "static/js/3.fbad69fb.chunk.js": "/somya-jain28.github.io./static/js/3.fbad69fb.chunk.js",
+    "static/js/3.fbad69fb.chunk.js.map": "/somya-jain28.github.io./static/js/3.fbad69fb.chunk.js.map",
+    "index.html": "/somya-jain28.github.io./index.html",
+    "static/css/main.b3b99487.chunk.css.map": "/somya-jain28.github.io./static/css/main.b3b99487.chunk.css.map",
+    "static/js/2.54e994be.chunk.js.LICENSE.txt": "/somya-jain28.github.io./static/js/2.54e994be.chunk.js.LICENSE.txt",
+    "static/media/MyntraLogo.49666a97.jpeg": "/somya-jain28.github.io./static/media/MyntraLogo.49666a97.jpeg",
+    "static/media/logo.6ce24c58.svg": "/somya-jain28.github.io./static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d7deb1f.js",
+    "static/js/2.54e994be.chunk.js",
+    "static/css/main.b3b99487.chunk.css",
+    "static/js/main.a4505091.chunk.js"
+  ]
+}
